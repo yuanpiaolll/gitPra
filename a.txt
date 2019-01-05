@@ -2,9 +2,5 @@ startover
 这是我新改的17.10asdasdasdasdad
 这是我新更改的
 lee17.25
-<<<<<<< HEAD
 lee 17.32
 17.36
-=======
-lee 17.32asdasdsadasdsads
->>>>>>> 3ed28afc7db45ddc77e59831b6cac5f6cc819d0f
