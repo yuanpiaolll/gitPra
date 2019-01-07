@@ -1,3 +1,8 @@
 start1
+<<<<<<< HEAD
 
 this is
+=======
+aaaa
+555
+>>>>>>> c003dc85acde6094de50dccf714c71d12bbc3082
